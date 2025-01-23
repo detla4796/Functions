@@ -1,19 +1,21 @@
-Задание 1 (Rectangle). Написать функцию, выводящую на экран
-прямоугольник с высотой N и шириной K.
+# Programming Tasks
 
-Задание 2 (Fact). Написать функцию, вычисляющую факториал
-переданного ей числа.
+This repository contains solutions to the following programming tasks:
 
-Задание 3 (Prime). Написать функцию, которая проверяет, явля-
-ется ли переданное ей число простым? Число называется
-простым, если оно делится без остатка только на себя
+## Task 1 (Rectangle)
+Write a function that prints a rectangle with a height of `N` and a width of `K`.
 
-Задание 4 (Cube). Написать функцию, которая возвращает куб
-числа.
+## Task 2 (Fact)
+Write a function that calculates the factorial of a given number.
 
-Задание 5 (Max). Написать функцию для нахождения наиболь-
-шего из двух чисел.
+## Task 3 (Prime)
+Write a function that checks whether a given number is prime. A number is called prime if it is divisible without a remainder only by itself and 1.
 
-Задание 6 (Positive). Написать функцию, которая возвращает ис-
-тину, если передаваемое значение положительное и ложь,
-если отрицательное.
+## Task 4 (Cube)
+Write a function that returns the cube of a number.
+
+## Task 5 (Max)
+Write a function to find the largest of two numbers.
+
+## Task 6 (Positive)
+Write a function that returns `True` if the passed value is positive and `False` if it is negative.
